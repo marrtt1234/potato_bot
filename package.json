@@ -1,0 +1,8 @@
+{
+  "name": "Potato-bot",
+  "version": "1.0.0",
+  "description": "eat potato",
+  "main": "bot.js",
+  "author": "marrtt1234",
+  "dependencies": {}
+}
